@@ -9,7 +9,7 @@ Lyhyestä virsi kaunis.
 |_____ \ \__/
 | \__/
 | |
-| |
+|XXXXXXX|
 | |
 / \
 / ____ \
