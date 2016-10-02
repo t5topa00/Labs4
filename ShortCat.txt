@@ -1,4 +1,4 @@
-Lyhyestä virsi kaunis. 
+Lyhyestä virsi kaunis. Muotopuoli kissa, mutta se on sivuseikka.
 /\”””””””/\
 / \
 | # # |
@@ -9,7 +9,7 @@ Lyhyestä virsi kaunis.
 |_____ \ \__/
 | \__/
 | |
-| |
+|||||||||
 | |
 / \
 / ____ \
